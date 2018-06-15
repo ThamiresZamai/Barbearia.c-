@@ -1,0 +1,13 @@
+C:\Projetos.Net\Barbearia\Barbearia\bin\Barbearia.dll.config
+C:\Projetos.Net\Barbearia\Barbearia\bin\Barbearia.dll
+C:\Projetos.Net\Barbearia\Barbearia\bin\Barbearia.pdb
+C:\Projetos.Net\Barbearia\Barbearia\bin\Controle.dll
+C:\Projetos.Net\Barbearia\Barbearia\bin\Entidade.dll
+C:\Projetos.Net\Barbearia\Barbearia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos.Net\Barbearia\Barbearia\bin\Controle.pdb
+C:\Projetos.Net\Barbearia\Barbearia\bin\Entidade.pdb
+C:\Projetos.Net\Barbearia\Barbearia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos.Net\Barbearia\Barbearia\obj\Debug\Barbearia.csprojResolveAssemblyReference.cache
+C:\Projetos.Net\Barbearia\Barbearia\obj\Debug\Barbearia.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\Barbearia\Barbearia\obj\Debug\Barbearia.dll
+C:\Projetos.Net\Barbearia\Barbearia\obj\Debug\Barbearia.pdb

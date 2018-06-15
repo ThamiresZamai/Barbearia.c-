@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barbearia", "Barbearia\Barbearia.csproj", "{9E03B041-8943-47FB-82E2-E803F5874847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidade", "Entidade\Entidade.csproj", "{7BA7F6BE-8E28-44C2-8652-A3B2905ECDC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle", "Controle\Controle.csproj", "{A6BBEAE3-D189-49F3-A2DE-2D3E4751FCC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E03B041-8943-47FB-82E2-E803F5874847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E03B041-8943-47FB-82E2-E803F5874847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E03B041-8943-47FB-82E2-E803F5874847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E03B041-8943-47FB-82E2-E803F5874847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA7F6BE-8E28-44C2-8652-A3B2905ECDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA7F6BE-8E28-44C2-8652-A3B2905ECDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA7F6BE-8E28-44C2-8652-A3B2905ECDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA7F6BE-8E28-44C2-8652-A3B2905ECDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6BBEAE3-D189-49F3-A2DE-2D3E4751FCC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BBEAE3-D189-49F3-A2DE-2D3E4751FCC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BBEAE3-D189-49F3-A2DE-2D3E4751FCC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BBEAE3-D189-49F3-A2DE-2D3E4751FCC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01063A70-C29E-4EAC-8034-FA145F3C0E52}
+	EndGlobalSection
+EndGlobal
